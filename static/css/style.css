@@ -1,0 +1,23 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.b-dark{
+	background-color: #033261;
+}
+
+
+.mt-50{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+#canvas{
+    border: 2px solid black;
+}
+.card-header{
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgb(29 113 92 / 20%);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
